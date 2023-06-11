@@ -1,17 +1,11 @@
 {
-<<<<<<< HEAD
     "name": "Netheria-Launcher",
     "preductname": "Netheria Launcher",
     "version": "1.0.0",
-=======
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.3.0",
->>>>>>> 311858e57794d21e5b0a252c4fe580a25d46e23e
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://netherialaucnher.000webhostapp.com",
+    "url": "craftdium.ml/launcherSelvania",
     "engines": {
         "node": "^18.x.x"
     },
